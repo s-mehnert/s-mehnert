@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div id="header" align="center">
+  <img src=".assets/coding.giv"/>
+</div>
+
 <!--
 **s-mehnert/s-mehnert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Attributions
+
+<a href="https://www.flaticon.com/free-animated-icons/technology" title="technology animated icons">Technology animated icons created by Freepik - Flaticon</a>
