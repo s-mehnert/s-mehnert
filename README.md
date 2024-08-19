@@ -1,7 +1,15 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <div id="header" align="center">
-  <img src=".assets/coding.gif" width="100"/>
+  <img src="./assets/coding.gif" width="100"/>
+  <div id="badges">
+    <a href="www.linkedin.com/in/smehnert">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://s-mehnert.github.io/">
+        <img src="https://img.shields.io/badge/my%20webpage-lightgray?style=for-the-badge" alt="Personal Webpage Badge"/>
+    </a>
+  </div>
 </div>
 
 <!--
