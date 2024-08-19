@@ -18,7 +18,9 @@
 
 ### Web Development
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-mehnert&repo=Envelope-Budgeting-API&theme=react)
+<img src="./assets/api.gif" width="50"/>
+Envelope Budgeting API    
+asdf
 <div>
   <a href="https://github.com/s-mehnert/Envelope-Budgeting-API">
     <img src="https://img.shields.io/badge/code-yellow?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
