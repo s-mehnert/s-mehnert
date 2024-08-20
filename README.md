@@ -3,10 +3,10 @@
 <div id="header" align="center">
   <img src="./assets/coding.gif" width="100"/>
   <div id="badges">
-    <a href="www.linkedin.com/in/smehnert">
+    <a href="https://www.linkedin.com/in/smehnert/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://s-mehnert.github.io/">
+    <a href="https://s-mehnert.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/my%20webpage-lightgray?style=for-the-badge" alt="Personal Webpage Badge"/>
     </a>
   </div>
@@ -140,36 +140,9 @@
   </tbody>
 </table>
 
-<!--
-### ⚡ Envelope Budgeting API ⚡
-
-Full-Stack solution showcasing a money managing technique.   
-Front-End: HTML, CSS, JavaScript   
-Back-End: Express.js, Node.js
-   
-<div>
-  <a href="https://dev.to/smehnert/envelope-budgeting-api-easy-money-management-51ak">
-    <img src="https://img.shields.io/badge/blog post-orange?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.To Badge" height="20"/>
-  </a>
-  <a href="https://github.com/s-mehnert/Envelope-Budgeting-API">
-    <img src="https://img.shields.io/badge/code-yellow?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" height="20"/>  
-  </a>  
-</div>
-
-### ⚡ Desktop Weather App ⚡
-
-Fetches and displays weather data using the Python library tkinter.
-   
-<div>
-  <a href="https://github.com/s-mehnert/desktop_weather_app">
-    <img src="https://img.shields.io/badge/code-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" height="20"/>  
-  </a>  
-</div>
--->
-
 ## Languages and Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-mehnert&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-mehnert&theme=react&hide=php,ruby)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **s-mehnert/s-mehnert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -187,6 +160,6 @@ Here are some ideas to get you started:
 -->
 
 
-### Attributions
+### Attribution
 
 <a href="https://www.flaticon.com/free-animated-icons/technology" title="technology animated icons">Technology animated icons created by Freepik - Flaticon</a>
