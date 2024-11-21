@@ -28,6 +28,27 @@
   </thead>
   <tbody>
     <tr>
+      <th>Retro Games React App
+      </th>
+      <td><div>
+  <img src="./assets/react.png" width="20"/>
+  <img src="./assets/javascript-color.svg" width="20"/>
+  <img src="./assets/css3-color.svg" width="20"/>
+</div>
+      </td>
+      <td>React Application for playing various Retro Games
+      </td>
+      <td><a href="https://dev.to/smehnert/retro-games-react-app-fma">
+    <img src="https://img.shields.io/badge/blog-orange?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.To Badge" height="20"/>
+  </a>
+      </td>
+      <td><a href="https://github.com/s-mehnert/Retro-Games-React-App">
+    <img src="https://img.shields.io/badge/code-yellow?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" height="20"/>  
+  </a>
+      </td>
+    </tr>
+    <tr>
+<tr>
       <th>Envelope Budgeting API
       </th>
       <td><div>
@@ -147,4 +168,3 @@
 ### Attribution
 
 [Technology animated icons created by Freepik - Flaticon](https://www.flaticon.com/free-animated-icons/technology)
-
